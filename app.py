@@ -408,7 +408,7 @@ def main():
                 # Changed from selectbox to text_input
                 student_data[feature] = st.text_input("City", key="student_city")
             elif feature == "Age":
-                student_data[feature] = st.slider("Age", 15, 40, 20, key="student_age")
+                student_data[feature] = st.slider("Age", 15, 65, 20, key="student_age")
             elif feature == "CGPA":
                 # Added CGPA slider with default 5.0 and step 0.1
                 student_data[feature] = st.slider("CGPA", min_value=0.0, max_value=10.0, value=5.0, step=0.1, key="student_cgpa")
