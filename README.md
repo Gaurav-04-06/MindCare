@@ -15,13 +15,14 @@ MindCare is a machine learning-based mental health prediction web application bu
 
 ## 🗂 Project Structure
 
+```bash
 mindcare/
 ├── app.py               # Main Streamlit app
 ├── Dockerfile           # Container setup instructions
 ├── requirements.txt     # Python dependencies
 ├── mlruns/              # (Optional) MLflow experiment logs
 └── README.md            # Project documentation
-
+```
 
 ---
 
@@ -74,7 +75,7 @@ mlflow ui
 
 Then open: http://127.0.0.1:5000
 
---- 
+---
 
 📧 Contact
 Built with ❤️ by Gaurav Kohli
