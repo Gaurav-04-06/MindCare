@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744597584329
+current_stage: None
+description: ''
+last_updated_timestamp: 1744597584329
+name: student_model
+run_id: 53c3efa8386342b8a46c761810af33d5
+run_link: ''
+source: mlflow-artifacts:/208555705700160342/53c3efa8386342b8a46c761810af33d5/artifacts/student_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/208555705700160342/53c3efa8386342b8a46c761810af33d5/artifacts/student_model
+user_id: null
+version: 1

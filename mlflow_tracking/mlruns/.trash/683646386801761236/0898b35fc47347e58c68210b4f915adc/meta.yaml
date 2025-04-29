@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/gaurav/Desktop/chsw-5/MindCare/mlflow_tracking/mlruns/683646386801761236/0898b35fc47347e58c68210b4f915adc/artifacts
+deleted_time: 1744595882941
+end_time: 1744513145238
+entry_point_name: ''
+experiment_id: '683646386801761236'
+lifecycle_stage: deleted
+run_id: 0898b35fc47347e58c68210b4f915adc
+run_name: big-asp-776
+run_uuid: 0898b35fc47347e58c68210b4f915adc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744513141117
+status: 3
+tags: []
+user_id: gaurav

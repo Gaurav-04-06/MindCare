@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/gaurav/Desktop/chsw-5/mlflow_tracking/mlruns/701731712265442322/8b86a144c3834310a7ac0f498626ee7f/artifacts
+deleted_time: 1744595885235
+end_time: 1744594892649
+entry_point_name: ''
+experiment_id: '701731712265442322'
+lifecycle_stage: deleted
+run_id: 8b86a144c3834310a7ac0f498626ee7f
+run_name: big-bat-75
+run_uuid: 8b86a144c3834310a7ac0f498626ee7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744594889694
+status: 3
+tags: []
+user_id: gaurav

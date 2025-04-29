@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/gaurav/Desktop/chsw-5/MindCare/mlflow_tracking/mlruns/0/0ea468a5a90d490c9eae9e64a755b07c/artifacts
+deleted_time: 1744597340724
+end_time: 1744596055941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0ea468a5a90d490c9eae9e64a755b07c
+run_name: Student Model
+run_uuid: 0ea468a5a90d490c9eae9e64a755b07c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744596051989
+status: 3
+tags: []
+user_id: gaurav

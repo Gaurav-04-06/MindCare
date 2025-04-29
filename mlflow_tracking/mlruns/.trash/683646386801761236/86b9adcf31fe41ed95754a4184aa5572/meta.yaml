@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/gaurav/Desktop/chsw-5/MindCare/mlflow_tracking/mlruns/683646386801761236/86b9adcf31fe41ed95754a4184aa5572/artifacts
+deleted_time: 1744595882941
+end_time: 1744593621566
+entry_point_name: ''
+experiment_id: '683646386801761236'
+lifecycle_stage: deleted
+run_id: 86b9adcf31fe41ed95754a4184aa5572
+run_name: skillful-doe-829
+run_uuid: 86b9adcf31fe41ed95754a4184aa5572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744593618137
+status: 3
+tags: []
+user_id: gaurav

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/gaurav/Desktop/chsw-5/MindCare/mlflow_tracking/mlruns/683646386801761236/cbf7de3e8baa4feeb152f63010430631/artifacts
+deleted_time: 1744595882941
+end_time: 1744593231445
+entry_point_name: ''
+experiment_id: '683646386801761236'
+lifecycle_stage: deleted
+run_id: cbf7de3e8baa4feeb152f63010430631
+run_name: upset-bird-487
+run_uuid: cbf7de3e8baa4feeb152f63010430631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744593227550
+status: 3
+tags: []
+user_id: gaurav

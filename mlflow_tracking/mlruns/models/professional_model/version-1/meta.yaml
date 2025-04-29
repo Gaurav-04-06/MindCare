@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744597602842
+current_stage: None
+description: ''
+last_updated_timestamp: 1744597602842
+name: professional_model
+run_id: 17696d5c753948ac947d51f1cccf9348
+run_link: ''
+source: mlflow-artifacts:/659789232272118580/17696d5c753948ac947d51f1cccf9348/artifacts/professional_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/659789232272118580/17696d5c753948ac947d51f1cccf9348/artifacts/professional_model
+user_id: null
+version: 1

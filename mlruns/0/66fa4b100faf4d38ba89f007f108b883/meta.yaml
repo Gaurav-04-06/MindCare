@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gaurav/Desktop/chsw-5/mlruns/0/66fa4b100faf4d38ba89f007f108b883/artifacts
+end_time: 1744595740070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66fa4b100faf4d38ba89f007f108b883
+run_name: Professional Model
+run_uuid: 66fa4b100faf4d38ba89f007f108b883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744595737473
+status: 3
+tags: []
+user_id: gaurav

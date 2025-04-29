@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/306859818101993753/41823dc704fb4b219b9c11482ec8f141/artifacts
+end_time: 1744647812786
+entry_point_name: ''
+experiment_id: '306859818101993753'
+lifecycle_stage: active
+run_id: 41823dc704fb4b219b9c11482ec8f141
+run_name: Student Model
+run_uuid: 41823dc704fb4b219b9c11482ec8f141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744647808244
+status: 3
+tags: []
+user_id: gaurav

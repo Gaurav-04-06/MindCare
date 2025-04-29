@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/gaurav/Desktop/chsw-5/MindCare/mlflow_tracking/mlruns/0/6dcd3e98f0b84169805c2425a88a6a35/artifacts
+deleted_time: 1744597340724
+end_time: 1744596058524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6dcd3e98f0b84169805c2425a88a6a35
+run_name: Professional Model
+run_uuid: 6dcd3e98f0b84169805c2425a88a6a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744596056094
+status: 3
+tags: []
+user_id: gaurav

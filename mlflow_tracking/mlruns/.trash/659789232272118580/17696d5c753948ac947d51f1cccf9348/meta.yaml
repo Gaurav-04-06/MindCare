@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/659789232272118580/17696d5c753948ac947d51f1cccf9348/artifacts
+deleted_time: 1744616634209
+end_time: 1744596764982
+entry_point_name: ''
+experiment_id: '659789232272118580'
+lifecycle_stage: deleted
+run_id: 17696d5c753948ac947d51f1cccf9348
+run_name: Professional Model
+run_uuid: 17696d5c753948ac947d51f1cccf9348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744596762109
+status: 3
+tags: []
+user_id: gaurav

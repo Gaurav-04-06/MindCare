@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/243921830264980457/1cce53bfd55f4ab2b12ca20ff191525f/artifacts
+deleted_time: 1744647693563
+end_time: 1744616674829
+entry_point_name: ''
+experiment_id: '243921830264980457'
+lifecycle_stage: deleted
+run_id: 1cce53bfd55f4ab2b12ca20ff191525f
+run_name: Student Model
+run_uuid: 1cce53bfd55f4ab2b12ca20ff191525f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744616670438
+status: 3
+tags: []
+user_id: gaurav

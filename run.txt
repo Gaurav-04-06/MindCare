@@ -1,0 +1,12 @@
+Step-1:
+ 
+mlflow ui --port 5000 --backend-store-uri file:///Users/gaurav/Desktop/chsw-5/mlflow_tracking/mlruns
+
+Step-2:
+
+run mlflow logger file
+
+Step-3
+
+docker build -t mindcare-app .
+docker run -p 8501:8501 mindcare-app
