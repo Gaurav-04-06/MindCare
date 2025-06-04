@@ -74,10 +74,6 @@ MindCare/
 
 Contributions are welcome! If you'd like to enhance the application or fix issues, please fork the repository and submit a pull request. For major changes, kindly open an issue first to discuss your ideas.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/) for providing an easy-to-use framework for web applications.
